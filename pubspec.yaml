@@ -1,5 +1,5 @@
 name: fl_clash
-description: A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free.
+description: THEK - прокси-сервис для быстрого и безопасного доступа к сети
 publish_to: 'none'
 version: 0.8.98+2026091401
 environment:
